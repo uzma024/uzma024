@@ -59,9 +59,9 @@ const Uzma = {
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzma024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzma024&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<br>
 
 📫 How to reach me :  [![Linkedin: Uzma](https://img.shields.io/badge/-Uzma-blue?style=flat&logo=linkedin&labelColor=blue/)](https://www.linkedin.com/in/uzma-firoz-khan-8b4630202/)
 
