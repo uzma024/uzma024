@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Uzma! 🤓
+
+<img src="header.png">
 
 <!--
 **uzma024/uzma024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
