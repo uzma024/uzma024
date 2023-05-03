@@ -1,7 +1,7 @@
 ## Hi, I'm Uzma! 🤓
 
-<!-- <img src="header.png"> -->
-<img src="./LofiAvatar-min.png" width="300" align="right" />
+<img src="header.png">
+<!-- <img src="./LofiAvatar-min.png" width="300" align="right" /> -->
 <!-- <img align="right" alt="coding" width="400" src="" width="50">  -->
 
 <!--
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- Busy being baised to strategically helping Alice win against Bob. -->
 
-<p align="left"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/uzma024/count.svg" />
 </p>
