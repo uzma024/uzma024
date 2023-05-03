@@ -1,6 +1,8 @@
 ## Hi, I'm Uzma! 🤓
 
-<img src="header.png">
+<!-- <img src="header.png"> -->
+<img src="./LofiAvatar-min.png" width="300" align="right" />
+<!-- <img align="right" alt="coding" width="400" src="" width="50">  -->
 
 <!--
 **uzma024/uzma024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +21,12 @@ Here are some ideas to get you started:
 
 <!-- Busy being baised to strategically helping Alice win against Bob. -->
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/uzma024/count.svg" />
 </p>
 
-## About me
+### About me...  
 
 ```javascript
 const Uzma = {
